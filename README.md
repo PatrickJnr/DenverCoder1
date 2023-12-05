@@ -279,11 +279,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/dbeley/my-steam-library/issues/1) in [dbeley/my-steam-library](https://github.com/dbeley/my-steam-library)
-2. ❗️ Opened issue [#1](https://github.com/dbeley/my-steam-library/issues/1) in [dbeley/my-steam-library](https://github.com/dbeley/my-steam-library)
-3. 🎉 Merged PR [#263](https://github.com/DenverCoder1/readme-typing-svg/pull/263) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🎉 Merged PR [#262](https://github.com/DenverCoder1/readme-typing-svg/pull/262) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#98](https://github.com/torahcalc/torahcalc/pull/98) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. 🗣 Commented on [#1](https://github.com/PatrickJnr/WorkshopCollections/issues/1) in [PatrickJnr/WorkshopCollections](https://github.com/PatrickJnr/WorkshopCollections)
+2. 🗣 Commented on [#1](https://github.com/PatrickJnr/WorkshopCollections/issues/1) in [PatrickJnr/WorkshopCollections](https://github.com/PatrickJnr/WorkshopCollections)
+3. 🗣 Commented on [#1](https://github.com/dbeley/my-steam-library/issues/1) in [dbeley/my-steam-library](https://github.com/dbeley/my-steam-library)
+4. 🗣 Commented on [#1](https://github.com/dbeley/my-steam-library/issues/1) in [dbeley/my-steam-library](https://github.com/dbeley/my-steam-library)
+5. 🗣 Commented on [#1](https://github.com/dbeley/my-steam-library/issues/1) in [dbeley/my-steam-library](https://github.com/dbeley/my-steam-library)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
