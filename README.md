@@ -279,11 +279,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#40](https://github.com/Nukem9/dlssg-to-fsr3/issues/40) in [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)
-2. 🗣 Commented on [#21](https://github.com/Citrinate/FreePackages/issues/21) in [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages)
-3. ❗️ Closed issue [#21](https://github.com/Citrinate/FreePackages/issues/21) in [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages)
-4. ❗️ Opened issue [#21](https://github.com/Citrinate/FreePackages/issues/21) in [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages)
-5. 🗣 Commented on [#1](https://github.com/PatrickJnr/WorkshopCollections/issues/1) in [PatrickJnr/WorkshopCollections](https://github.com/PatrickJnr/WorkshopCollections)
+1. 🗣 Commented on [#85](https://github.com/Nukem9/dlssg-to-fsr3/issues/85) in [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)
+2. 🗣 Commented on [#60](https://github.com/Nukem9/dlssg-to-fsr3/issues/60) in [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)
+3. ❗️ Opened issue [#72](https://github.com/Nukem9/dlssg-to-fsr3/issues/72) in [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)
+4. 🗣 Commented on [#40](https://github.com/Nukem9/dlssg-to-fsr3/issues/40) in [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3)
+5. 🗣 Commented on [#21](https://github.com/Citrinate/FreePackages/issues/21) in [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
